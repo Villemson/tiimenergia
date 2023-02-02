@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiimenergia/static/css/main.e6c13ad2.css",
+    "main.js": "/tiimenergia/static/js/main.8d7b1b3b.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tiimenergia/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/tiimenergia/index.html",
+    "main.e6c13ad2.css.map": "/tiimenergia/static/css/main.e6c13ad2.css.map",
+    "main.8d7b1b3b.js.map": "/tiimenergia/static/js/main.8d7b1b3b.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tiimenergia/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d7b1b3b.js"
+  ]
+}
